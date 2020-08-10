@@ -5,4 +5,9 @@
 8/5/2020 **Drawing Book** JS / Warm-up 
 [Challenge](https://www.hackerrank.com/challenges/drawing-book/problem?h_r=profile)
 [Solution](https://github.com/MDShields7/hackerrank-progress/solutions/drawing-book.js/)<br>
-
+8/7/2020 **Counting Valleys** JS / Warm-up
+[Challenge](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=profile)
+[Solution](https://github.com/MDShields7/hackerrank-progress/solutions/drawing-book.js/)<br>
+8//2020 **Jumping on the Clouds** JS / Warm-up
+[Challenge](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=iprofile)
+[Solution](https://github.com/MDShields7/hackerrank-progress/solutions/drawing-book.js/)<br>
