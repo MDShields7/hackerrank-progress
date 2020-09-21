@@ -14,3 +14,6 @@
 8/19/2020 **Repeated String** JS / Warm-up
 [Challenge](https://www.hackerrank.com/challenges/repeated-string/problem?h_r=profile)
 [Solution](https://github.com/MDShields7/hackerrank-progress/solutions/repeated-string.js/)<br>
+9/21/2020 **Cats and a Mouse** JS / Warm-up
+[Challenge](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?h_r=profile)
+[Solution](https://github.com/MDShields7/hackerrank-progress/solutions/cats-and-a-mouse.js/)<br>
