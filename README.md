@@ -17,3 +17,6 @@
 9/21/2020 **Cats and a Mouse** JS / Warm-up
 [Challenge](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?h_r=profile)
 [Solution](https://github.com/MDShields7/hackerrank-progress/solutions/cats-and-a-mouse.js/)<br>
+9/22/2020 **Arrays: Left Rotation** JS / Arrays
+[Challenge](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
+[Solution](https://github.com/MDShields7/hackerrank-progress/solutions/array-left-rotation.js/)<br>
