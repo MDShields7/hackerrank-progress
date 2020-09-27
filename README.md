@@ -20,3 +20,6 @@
 9/22/2020 **Arrays: Left Rotation** JS / Arrays
 [Challenge](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
 [Solution](https://github.com/MDShields7/hackerrank-progress/solutions/array-left-rotation.js/)<br>
+9/27/2020 **Arrays: 2D Array** JS / Arrays
+[Challenge](https://www.hackerrank.com/challenges/2d-array/problem)
+[Solution](https://github.com/MDShields7/hackerrank-progress/solutions/2d-array.js/)<br>
