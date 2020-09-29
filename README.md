@@ -23,3 +23,6 @@
 9/27/2020 **Arrays: 2D Array** JS / Arrays
 [Challenge](https://www.hackerrank.com/challenges/2d-array/problem)
 [Solution](https://github.com/MDShields7/hackerrank-progress/solutions/2d-array.js/)<br>
+9/29/2020 **Simple Square Numbers** JS (Codewars)
+[Challenge](https://www.codewars.com/kata/5edc8c53d7cede0032eb6029)
+[Solution](https://github.com/MDShields7/hackerrank-progress/solutions/simple-square-numbers.js/)<br>
